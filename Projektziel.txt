@@ -1,0 +1,13 @@
+Im Rahmen der Projektaufgabe ist eine Applikation zur Navigation durch Frankfurt zu erstellen.
+die Applikationssoftware soll folgende Teilaufgaben erledigen:
+
+• Einlesen von Kartendaten im OpenStreetMap-Format
+• Darstellung einer Karte
+• Suchen von Adressen oder wichtigen Punkten
+• Planung einer Route
+• Simulation einer Fahrt über eine vorab geplante Route
+
+Zu diesen Punkten wird auf den folgenden Seiten eine Minimalspezifikation festgelegt. Die
+Aufgabe ist es, diese zu erfüllen. Einige Punkte sind optional. Beim Funktionsumfang Ihrer
+Applikation kann man sich an den üblichen Funktionen aus Internet-Kartensystemen bzw. Navigationssystemen
+inspirieren lassen.
